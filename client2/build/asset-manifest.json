@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c94dc533.css",
+    "main.js": "/static/js/main.51248035.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/backend.webp": "/static/media/backend.2d5dea96b68820ce122e.webp",
+    "static/media/My photo_page-0001.jpg": "/static/media/My photo_page-0001.5f5c4c7d2fd2a1f08adc.jpg",
+    "static/media/projectManangmnet.png": "/static/media/projectManangmnet.4883b3860a1bd1162ef9.png",
+    "static/media/library.png": "/static/media/library.93f6d0478d15bfca0be5.png",
+    "static/media/usabilty.png": "/static/media/usabilty.b09a7c00ddc317f35aa1.png",
+    "static/media/datastructure.png": "/static/media/datastructure.6fa736807808e198c71c.png",
+    "static/media/database-design-development1.png": "/static/media/database-design-development1.04e67d27bfa4a650d55f.png",
+    "static/media/services-frontend-page.png": "/static/media/services-frontend-page.c9add890c818cc021b96.png",
+    "index.html": "/index.html",
+    "main.c94dc533.css.map": "/static/css/main.c94dc533.css.map",
+    "main.51248035.js.map": "/static/js/main.51248035.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c94dc533.css",
+    "static/js/main.51248035.js"
+  ]
+}
